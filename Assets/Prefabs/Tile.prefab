@@ -101,7 +101,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 2048
+  m_VerticalAlignment: 8192
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -146,6 +146,7 @@ GameObject:
   - component: {fileID: 1853666280778674049}
   - component: {fileID: 1778128908370009098}
   - component: {fileID: 7606154153750709488}
+  - component: {fileID: 8852372461999635020}
   m_Layer: 5
   m_Name: Tile
   m_TagString: Untagged
@@ -212,3 +213,15 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 3
+--- !u!114 &8852372461999635020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6008329642456024986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1964cfae60aa930418df62567f6b2643, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
